@@ -3,5 +3,5 @@ Aprendendo engenharia de dados
 
 ## aprendendo novas funções no git
 
-Novas mudanças
+* comando git push*
 
